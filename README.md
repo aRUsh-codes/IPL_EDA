@@ -23,3 +23,11 @@ This is a project on Exploratory Data Analysis(EDA) of the data of the Indian Pr
     Analyzed the IPL data over time to understand the evolution of the league. Examine trends in team performance, player performance, match results, etc., across different seasons. Visualized these trends using line plots or time-series decomposition techniques.
 
 ## **/*CONCLUSION*/**
+*   ### Team with the most wins- Mumbai Indians - 92 wins
+*   ### Player of the match - CH Gayle - 18 times
+*   ### Most played in venue- M Chinnaswamy Stadium - 66 matches
+*   ### Top Batsmen- V Kohli
+*   ### Top Bowler- SL Malinga
+  
+
+
